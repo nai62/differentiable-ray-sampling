@@ -3,7 +3,7 @@ This software is developed as a part of [Preferred Networks 2019 Research Intern
 The main developer is [N. H. Shimada](http://ut25252.starfree.jp/).
 
 The code realizes a differentiable renderer for neural 3D representation. The prediction model can be trained via only 2D images and conducts 3D reconstruction from a single RGB image (as below).<br>
-For more details, please refer to [slides](https://~) and [blog (Japanese)](https://~).
+For more details, please refer to [slides](https://www.slideshare.net/pfi/differentiable-ray-sampling-for-neural-3d-representation) and [blog (Japanese)](https://tech.preferred.jp/ja/blog/differentiable_ray_sampling/).
 
 
 ![Teaser Image](./teaser.png)
